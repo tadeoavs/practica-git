@@ -44,3 +44,4 @@ console.log('búho');
 //conejo
 //puma
 // inicio de la demostración
+console.log('fin de la demostración');
