@@ -1,3 +1,5 @@
+console.log('inicio de la demostración');
+
 async function preparar() {
   console.log('perro');
   await null;
@@ -41,3 +43,4 @@ console.log('búho');
 //jaguar
 //conejo
 //puma
+// inicio de la demostración
